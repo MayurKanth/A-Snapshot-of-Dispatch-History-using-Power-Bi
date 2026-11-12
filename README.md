@@ -47,6 +47,7 @@ Total Shipment Value: ₹5.2M
 Top courier by volume & value: Ekart (~40%)
 
 Top state by orders: Maharashtra (473 orders), Telengana (280 ), Karnataka  (265), TamilNadu (252) and West Bengal (246 )
+
 Top selling products: Toothpaste, Bucket, Dinner Plate Set, Hand Wash, Mop
 
 <img width="2135" height="1246" alt="image" src="https://github.com/user-attachments/assets/311156ce-5614-4632-81c6-78aa20b1d890" />
